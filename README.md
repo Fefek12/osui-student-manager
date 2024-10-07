@@ -1,0 +1,1 @@
+# Osui student manager
